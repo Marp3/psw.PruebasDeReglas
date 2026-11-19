@@ -1,8 +1,8 @@
-#OBJ
+# OBJ
 Este sistema existe para administrar pequeños emprebdimientos y tienas, su exito y porposito radica en ser un apoyo y gestor adecuado dentro de cualqueir tiendita de la esquina
 
-#CU
--/CUN001/-Se ingresan los porductos 
+# CU
+-/CUN001/-Se ingresan los porductos
 -/CUN002/-SE maneja la tienda
 
 # RN
