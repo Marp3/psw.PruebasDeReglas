@@ -2,8 +2,8 @@
 Este sistema existe para administrar pequeños emprebdimientos y tienas, su exito y porposito radica en ser un apoyo y gestor adecuado dentro de cualqueir tiendita de la esquina
 
 ## CU -> Casos de Uso
-* CU-001 -> Se ingresan los porductos
-* CU-002 -> Se maneja la tienda
+* CU-001 >> Ingresa al sistema -> Abre el Modulo de Productos -> Registra los productos deseados -> Guarda cambios. 
+* CU-002 >> Ingresa al sistema -> Abre el Modulo de Ventas -> Realiza ventas -> Corte de Caja.
 
 ## RN -> Regla de negocio
 * RN-001 -> Hacer retiro cada 1500 pesos en ventas. Iniciar en 500 pesos
